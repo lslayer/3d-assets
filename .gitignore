@@ -1,0 +1,43 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Blender autosaves / backups
+*.blend1
+*.blend2
+*.blend3
+*.blend4
+*.blend5
+*.blend6
+*.blend7
+*.blend8
+*.blend9
+*.blend10
+*.blend11
+*.blend12
+*.blend13
+*.blend14
+*.blend15
+*.blend16
+*.blend17
+*.blend18
+*.blend19
+*.blend20
+*.blend@*
+
+# Blender temporary / recovery
+*.btemp
+*.crash.txt
+
+# Python / local env
+__pycache__/
+*.pyc
+.venv/
+.venvs/
+
+# Local caches / temp outputs
+.cache/
+boat_iterations/
+
+# Workspace temp exports
+tmp/
