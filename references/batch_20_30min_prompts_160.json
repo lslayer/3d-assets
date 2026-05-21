@@ -1,0 +1,1602 @@
+[
+  {
+    "index": 1,
+    "asset_id": "33",
+    "asset_name": "Forge",
+    "asset_slug": "forge",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Forge, blacksmith forge station with anvil support and coal chamber, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 2,
+    "asset_id": "33",
+    "asset_name": "Forge",
+    "asset_slug": "forge",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Forge, blacksmith forge station with anvil support and coal chamber, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 3,
+    "asset_id": "33",
+    "asset_name": "Forge",
+    "asset_slug": "forge",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Forge, blacksmith forge station with anvil support and coal chamber, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 4,
+    "asset_id": "33",
+    "asset_name": "Forge",
+    "asset_slug": "forge",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Forge, blacksmith forge station with anvil support and coal chamber, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 5,
+    "asset_id": "34",
+    "asset_name": "Workbench",
+    "asset_slug": "workbench",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Workbench, pirate workshop bench with sturdy legs and tool shelf, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 6,
+    "asset_id": "34",
+    "asset_name": "Workbench",
+    "asset_slug": "workbench",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Workbench, pirate workshop bench with sturdy legs and tool shelf, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 7,
+    "asset_id": "34",
+    "asset_name": "Workbench",
+    "asset_slug": "workbench",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Workbench, pirate workshop bench with sturdy legs and tool shelf, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 8,
+    "asset_id": "34",
+    "asset_name": "Workbench",
+    "asset_slug": "workbench",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Workbench, pirate workshop bench with sturdy legs and tool shelf, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 9,
+    "asset_id": "35",
+    "asset_name": "Alchemy Table",
+    "asset_slug": "alchemy_table",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Alchemy Table, alchemy table with flask holders and simple shelf setup, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 10,
+    "asset_id": "35",
+    "asset_name": "Alchemy Table",
+    "asset_slug": "alchemy_table",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Alchemy Table, alchemy table with flask holders and simple shelf setup, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 11,
+    "asset_id": "35",
+    "asset_name": "Alchemy Table",
+    "asset_slug": "alchemy_table",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Alchemy Table, alchemy table with flask holders and simple shelf setup, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 12,
+    "asset_id": "35",
+    "asset_name": "Alchemy Table",
+    "asset_slug": "alchemy_table",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Alchemy Table, alchemy table with flask holders and simple shelf setup, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 13,
+    "asset_id": "36",
+    "asset_name": "Barrel A",
+    "asset_slug": "barrel_a",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Barrel A, wooden pirate barrel with metal hoops, compact and clean, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 14,
+    "asset_id": "36",
+    "asset_name": "Barrel A",
+    "asset_slug": "barrel_a",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Barrel A, wooden pirate barrel with metal hoops, compact and clean, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 15,
+    "asset_id": "36",
+    "asset_name": "Barrel A",
+    "asset_slug": "barrel_a",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Barrel A, wooden pirate barrel with metal hoops, compact and clean, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 16,
+    "asset_id": "36",
+    "asset_name": "Barrel A",
+    "asset_slug": "barrel_a",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Barrel A, wooden pirate barrel with metal hoops, compact and clean, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 17,
+    "asset_id": "37",
+    "asset_name": "Barrel B",
+    "asset_slug": "barrel_b",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Barrel B, wooden barrel variant with broader silhouette and thicker hoops, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 18,
+    "asset_id": "37",
+    "asset_name": "Barrel B",
+    "asset_slug": "barrel_b",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Barrel B, wooden barrel variant with broader silhouette and thicker hoops, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 19,
+    "asset_id": "37",
+    "asset_name": "Barrel B",
+    "asset_slug": "barrel_b",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Barrel B, wooden barrel variant with broader silhouette and thicker hoops, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 20,
+    "asset_id": "37",
+    "asset_name": "Barrel B",
+    "asset_slug": "barrel_b",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Barrel B, wooden barrel variant with broader silhouette and thicker hoops, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 21,
+    "asset_id": "38",
+    "asset_name": "Crate A",
+    "asset_slug": "crate_a",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Crate A, wooden cargo crate with reinforced corners and plank seams, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 22,
+    "asset_id": "38",
+    "asset_name": "Crate A",
+    "asset_slug": "crate_a",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Crate A, wooden cargo crate with reinforced corners and plank seams, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 23,
+    "asset_id": "38",
+    "asset_name": "Crate A",
+    "asset_slug": "crate_a",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Crate A, wooden cargo crate with reinforced corners and plank seams, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 24,
+    "asset_id": "38",
+    "asset_name": "Crate A",
+    "asset_slug": "crate_a",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Crate A, wooden cargo crate with reinforced corners and plank seams, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 25,
+    "asset_id": "39",
+    "asset_name": "Crate B",
+    "asset_slug": "crate_b",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Crate B, cargo crate variant with cross braces and metal straps, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 26,
+    "asset_id": "39",
+    "asset_name": "Crate B",
+    "asset_slug": "crate_b",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Crate B, cargo crate variant with cross braces and metal straps, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 27,
+    "asset_id": "39",
+    "asset_name": "Crate B",
+    "asset_slug": "crate_b",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Crate B, cargo crate variant with cross braces and metal straps, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 28,
+    "asset_id": "39",
+    "asset_name": "Crate B",
+    "asset_slug": "crate_b",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Crate B, cargo crate variant with cross braces and metal straps, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 29,
+    "asset_id": "40",
+    "asset_name": "Treasure Chest A (Closed)",
+    "asset_slug": "treasure_chest_a_closed",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Treasure Chest A (Closed), closed pirate treasure chest with curved lid and metal bands, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 30,
+    "asset_id": "40",
+    "asset_name": "Treasure Chest A (Closed)",
+    "asset_slug": "treasure_chest_a_closed",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Treasure Chest A (Closed), closed pirate treasure chest with curved lid and metal bands, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 31,
+    "asset_id": "40",
+    "asset_name": "Treasure Chest A (Closed)",
+    "asset_slug": "treasure_chest_a_closed",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Treasure Chest A (Closed), closed pirate treasure chest with curved lid and metal bands, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 32,
+    "asset_id": "40",
+    "asset_name": "Treasure Chest A (Closed)",
+    "asset_slug": "treasure_chest_a_closed",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Treasure Chest A (Closed), closed pirate treasure chest with curved lid and metal bands, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 33,
+    "asset_id": "41",
+    "asset_name": "Treasure Chest B (Closed)",
+    "asset_slug": "treasure_chest_b_closed",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Treasure Chest B (Closed), closed treasure chest variant with heavier lock plate, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 34,
+    "asset_id": "41",
+    "asset_name": "Treasure Chest B (Closed)",
+    "asset_slug": "treasure_chest_b_closed",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Treasure Chest B (Closed), closed treasure chest variant with heavier lock plate, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 35,
+    "asset_id": "41",
+    "asset_name": "Treasure Chest B (Closed)",
+    "asset_slug": "treasure_chest_b_closed",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Treasure Chest B (Closed), closed treasure chest variant with heavier lock plate, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 36,
+    "asset_id": "41",
+    "asset_name": "Treasure Chest B (Closed)",
+    "asset_slug": "treasure_chest_b_closed",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Treasure Chest B (Closed), closed treasure chest variant with heavier lock plate, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 37,
+    "asset_id": "42",
+    "asset_name": "Treasure Chest C (Open)",
+    "asset_slug": "treasure_chest_c_open",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Treasure Chest C (Open), open pirate treasure chest with visible empty interior and lid up, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 38,
+    "asset_id": "42",
+    "asset_name": "Treasure Chest C (Open)",
+    "asset_slug": "treasure_chest_c_open",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Treasure Chest C (Open), open pirate treasure chest with visible empty interior and lid up, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 39,
+    "asset_id": "42",
+    "asset_name": "Treasure Chest C (Open)",
+    "asset_slug": "treasure_chest_c_open",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Treasure Chest C (Open), open pirate treasure chest with visible empty interior and lid up, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 40,
+    "asset_id": "42",
+    "asset_name": "Treasure Chest C (Open)",
+    "asset_slug": "treasure_chest_c_open",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Treasure Chest C (Open), open pirate treasure chest with visible empty interior and lid up, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 41,
+    "asset_id": "43",
+    "asset_name": "Key A",
+    "asset_slug": "key_a",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Key A, old brass pirate key with ring bow and toothed bit, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 42,
+    "asset_id": "43",
+    "asset_name": "Key A",
+    "asset_slug": "key_a",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Key A, old brass pirate key with ring bow and toothed bit, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 43,
+    "asset_id": "43",
+    "asset_name": "Key A",
+    "asset_slug": "key_a",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Key A, old brass pirate key with ring bow and toothed bit, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 44,
+    "asset_id": "43",
+    "asset_name": "Key A",
+    "asset_slug": "key_a",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Key A, old brass pirate key with ring bow and toothed bit, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 45,
+    "asset_id": "44",
+    "asset_name": "Key B",
+    "asset_slug": "key_b",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Key B, ornate brass key variant with longer shaft and clean silhouette, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 46,
+    "asset_id": "44",
+    "asset_name": "Key B",
+    "asset_slug": "key_b",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Key B, ornate brass key variant with longer shaft and clean silhouette, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 47,
+    "asset_id": "44",
+    "asset_name": "Key B",
+    "asset_slug": "key_b",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Key B, ornate brass key variant with longer shaft and clean silhouette, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 48,
+    "asset_id": "44",
+    "asset_name": "Key B",
+    "asset_slug": "key_b",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Key B, ornate brass key variant with longer shaft and clean silhouette, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 49,
+    "asset_id": "45",
+    "asset_name": "Key C",
+    "asset_slug": "key_c",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Key C, sturdy iron key with broader head and simple notch pattern, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 50,
+    "asset_id": "45",
+    "asset_name": "Key C",
+    "asset_slug": "key_c",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Key C, sturdy iron key with broader head and simple notch pattern, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 51,
+    "asset_id": "45",
+    "asset_name": "Key C",
+    "asset_slug": "key_c",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Key C, sturdy iron key with broader head and simple notch pattern, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 52,
+    "asset_id": "45",
+    "asset_name": "Key C",
+    "asset_slug": "key_c",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Key C, sturdy iron key with broader head and simple notch pattern, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 53,
+    "asset_id": "46",
+    "asset_name": "Lantern Hanging",
+    "asset_slug": "lantern_hanging",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lantern Hanging, hanging pirate lantern with hook loop and glass panels, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 54,
+    "asset_id": "46",
+    "asset_name": "Lantern Hanging",
+    "asset_slug": "lantern_hanging",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lantern Hanging, hanging pirate lantern with hook loop and glass panels, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 55,
+    "asset_id": "46",
+    "asset_name": "Lantern Hanging",
+    "asset_slug": "lantern_hanging",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lantern Hanging, hanging pirate lantern with hook loop and glass panels, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 56,
+    "asset_id": "46",
+    "asset_name": "Lantern Hanging",
+    "asset_slug": "lantern_hanging",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lantern Hanging, hanging pirate lantern with hook loop and glass panels, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 57,
+    "asset_id": "47",
+    "asset_name": "Lantern Standing",
+    "asset_slug": "lantern_standing",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lantern Standing, standing lantern with compact base and metal frame, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 58,
+    "asset_id": "47",
+    "asset_name": "Lantern Standing",
+    "asset_slug": "lantern_standing",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lantern Standing, standing lantern with compact base and metal frame, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 59,
+    "asset_id": "47",
+    "asset_name": "Lantern Standing",
+    "asset_slug": "lantern_standing",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lantern Standing, standing lantern with compact base and metal frame, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 60,
+    "asset_id": "47",
+    "asset_name": "Lantern Standing",
+    "asset_slug": "lantern_standing",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lantern Standing, standing lantern with compact base and metal frame, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 61,
+    "asset_id": "48",
+    "asset_name": "Torch Wall",
+    "asset_slug": "torch_wall",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Torch Wall, wall torch with bracket mount and stylized flame, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 62,
+    "asset_id": "48",
+    "asset_name": "Torch Wall",
+    "asset_slug": "torch_wall",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Torch Wall, wall torch with bracket mount and stylized flame, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 63,
+    "asset_id": "48",
+    "asset_name": "Torch Wall",
+    "asset_slug": "torch_wall",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Torch Wall, wall torch with bracket mount and stylized flame, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 64,
+    "asset_id": "48",
+    "asset_name": "Torch Wall",
+    "asset_slug": "torch_wall",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Torch Wall, wall torch with bracket mount and stylized flame, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 65,
+    "asset_id": "S01",
+    "asset_name": "Shore Fishing Rod",
+    "asset_slug": "shore_fishing_rod",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Fishing Rod, pirate-era fishing rod with wrapped grip, line, and small hook, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 66,
+    "asset_id": "S01",
+    "asset_name": "Shore Fishing Rod",
+    "asset_slug": "shore_fishing_rod",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Fishing Rod, pirate-era fishing rod with wrapped grip, line, and small hook, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 67,
+    "asset_id": "S01",
+    "asset_name": "Shore Fishing Rod",
+    "asset_slug": "shore_fishing_rod",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Fishing Rod, pirate-era fishing rod with wrapped grip, line, and small hook, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 68,
+    "asset_id": "S01",
+    "asset_name": "Shore Fishing Rod",
+    "asset_slug": "shore_fishing_rod",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Fishing Rod, pirate-era fishing rod with wrapped grip, line, and small hook, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 69,
+    "asset_id": "S02",
+    "asset_name": "Shore Harpoon",
+    "asset_slug": "shore_harpoon",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Harpoon, iron harpoon with short wooden shaft and rope tie point, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 70,
+    "asset_id": "S02",
+    "asset_name": "Shore Harpoon",
+    "asset_slug": "shore_harpoon",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Harpoon, iron harpoon with short wooden shaft and rope tie point, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 71,
+    "asset_id": "S02",
+    "asset_name": "Shore Harpoon",
+    "asset_slug": "shore_harpoon",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Harpoon, iron harpoon with short wooden shaft and rope tie point, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 72,
+    "asset_id": "S02",
+    "asset_name": "Shore Harpoon",
+    "asset_slug": "shore_harpoon",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Harpoon, iron harpoon with short wooden shaft and rope tie point, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 73,
+    "asset_id": "S03",
+    "asset_name": "Shore Fishing Net Bundle",
+    "asset_slug": "shore_fishing_net_bundle",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Fishing Net Bundle, coiled fishing net bundle with rope knots and weighted edge, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 74,
+    "asset_id": "S03",
+    "asset_name": "Shore Fishing Net Bundle",
+    "asset_slug": "shore_fishing_net_bundle",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Fishing Net Bundle, coiled fishing net bundle with rope knots and weighted edge, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 75,
+    "asset_id": "S03",
+    "asset_name": "Shore Fishing Net Bundle",
+    "asset_slug": "shore_fishing_net_bundle",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Fishing Net Bundle, coiled fishing net bundle with rope knots and weighted edge, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 76,
+    "asset_id": "S03",
+    "asset_name": "Shore Fishing Net Bundle",
+    "asset_slug": "shore_fishing_net_bundle",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Fishing Net Bundle, coiled fishing net bundle with rope knots and weighted edge, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 77,
+    "asset_id": "S04",
+    "asset_name": "Shore Fish Trap Cage",
+    "asset_slug": "shore_fish_trap_cage",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Fish Trap Cage, woven wooden fish trap cage with funnel opening, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 78,
+    "asset_id": "S04",
+    "asset_name": "Shore Fish Trap Cage",
+    "asset_slug": "shore_fish_trap_cage",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Fish Trap Cage, woven wooden fish trap cage with funnel opening, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 79,
+    "asset_id": "S04",
+    "asset_name": "Shore Fish Trap Cage",
+    "asset_slug": "shore_fish_trap_cage",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Fish Trap Cage, woven wooden fish trap cage with funnel opening, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 80,
+    "asset_id": "S04",
+    "asset_name": "Shore Fish Trap Cage",
+    "asset_slug": "shore_fish_trap_cage",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Fish Trap Cage, woven wooden fish trap cage with funnel opening, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 81,
+    "asset_id": "S05",
+    "asset_name": "Shore Rope Coil",
+    "asset_slug": "shore_rope_coil",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Rope Coil, thick rope coil with weathered fibers and tidy wrap, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 82,
+    "asset_id": "S05",
+    "asset_name": "Shore Rope Coil",
+    "asset_slug": "shore_rope_coil",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Rope Coil, thick rope coil with weathered fibers and tidy wrap, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 83,
+    "asset_id": "S05",
+    "asset_name": "Shore Rope Coil",
+    "asset_slug": "shore_rope_coil",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Rope Coil, thick rope coil with weathered fibers and tidy wrap, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 84,
+    "asset_id": "S05",
+    "asset_name": "Shore Rope Coil",
+    "asset_slug": "shore_rope_coil",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Rope Coil, thick rope coil with weathered fibers and tidy wrap, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 85,
+    "asset_id": "S06",
+    "asset_name": "Shore Buoy Float",
+    "asset_slug": "shore_buoy_float",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Buoy Float, wooden cork buoy float with rope loop and worn paint, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 86,
+    "asset_id": "S06",
+    "asset_name": "Shore Buoy Float",
+    "asset_slug": "shore_buoy_float",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Buoy Float, wooden cork buoy float with rope loop and worn paint, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 87,
+    "asset_id": "S06",
+    "asset_name": "Shore Buoy Float",
+    "asset_slug": "shore_buoy_float",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Buoy Float, wooden cork buoy float with rope loop and worn paint, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 88,
+    "asset_id": "S06",
+    "asset_name": "Shore Buoy Float",
+    "asset_slug": "shore_buoy_float",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Buoy Float, wooden cork buoy float with rope loop and worn paint, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 89,
+    "asset_id": "S07",
+    "asset_name": "Shore Oar",
+    "asset_slug": "shore_oar",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Oar, pirate skiff oar with worn wooden paddle blade, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 90,
+    "asset_id": "S07",
+    "asset_name": "Shore Oar",
+    "asset_slug": "shore_oar",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Oar, pirate skiff oar with worn wooden paddle blade, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 91,
+    "asset_id": "S07",
+    "asset_name": "Shore Oar",
+    "asset_slug": "shore_oar",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Oar, pirate skiff oar with worn wooden paddle blade, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 92,
+    "asset_id": "S07",
+    "asset_name": "Shore Oar",
+    "asset_slug": "shore_oar",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Oar, pirate skiff oar with worn wooden paddle blade, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 93,
+    "asset_id": "S08",
+    "asset_name": "Shore Anchor Small",
+    "asset_slug": "shore_anchor_small",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Anchor Small, compact shore anchor with rusted metal and rope tie loop, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 94,
+    "asset_id": "S08",
+    "asset_name": "Shore Anchor Small",
+    "asset_slug": "shore_anchor_small",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Anchor Small, compact shore anchor with rusted metal and rope tie loop, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 95,
+    "asset_id": "S08",
+    "asset_name": "Shore Anchor Small",
+    "asset_slug": "shore_anchor_small",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Anchor Small, compact shore anchor with rusted metal and rope tie loop, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 96,
+    "asset_id": "S08",
+    "asset_name": "Shore Anchor Small",
+    "asset_slug": "shore_anchor_small",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Anchor Small, compact shore anchor with rusted metal and rope tie loop, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 97,
+    "asset_id": "S09",
+    "asset_name": "Shore Bait Bucket",
+    "asset_slug": "shore_bait_bucket",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Bait Bucket, wooden bait bucket with handle and simple metal band, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 98,
+    "asset_id": "S09",
+    "asset_name": "Shore Bait Bucket",
+    "asset_slug": "shore_bait_bucket",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Bait Bucket, wooden bait bucket with handle and simple metal band, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 99,
+    "asset_id": "S09",
+    "asset_name": "Shore Bait Bucket",
+    "asset_slug": "shore_bait_bucket",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Bait Bucket, wooden bait bucket with handle and simple metal band, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 100,
+    "asset_id": "S09",
+    "asset_name": "Shore Bait Bucket",
+    "asset_slug": "shore_bait_bucket",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Bait Bucket, wooden bait bucket with handle and simple metal band, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 101,
+    "asset_id": "S10",
+    "asset_name": "Shore Barrel of Fish",
+    "asset_slug": "shore_barrel_of_fish",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Barrel of Fish, open barrel with stylized fish silhouettes and rope band, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 102,
+    "asset_id": "S10",
+    "asset_name": "Shore Barrel of Fish",
+    "asset_slug": "shore_barrel_of_fish",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Barrel of Fish, open barrel with stylized fish silhouettes and rope band, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 103,
+    "asset_id": "S10",
+    "asset_name": "Shore Barrel of Fish",
+    "asset_slug": "shore_barrel_of_fish",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Barrel of Fish, open barrel with stylized fish silhouettes and rope band, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 104,
+    "asset_id": "S10",
+    "asset_name": "Shore Barrel of Fish",
+    "asset_slug": "shore_barrel_of_fish",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Barrel of Fish, open barrel with stylized fish silhouettes and rope band, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 105,
+    "asset_id": "S11",
+    "asset_name": "Shore Crab Trap",
+    "asset_slug": "shore_crab_trap",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Crab Trap, small wooden crab trap with rope handle and hatch detail, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 106,
+    "asset_id": "S11",
+    "asset_name": "Shore Crab Trap",
+    "asset_slug": "shore_crab_trap",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Crab Trap, small wooden crab trap with rope handle and hatch detail, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 107,
+    "asset_id": "S11",
+    "asset_name": "Shore Crab Trap",
+    "asset_slug": "shore_crab_trap",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Crab Trap, small wooden crab trap with rope handle and hatch detail, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 108,
+    "asset_id": "S11",
+    "asset_name": "Shore Crab Trap",
+    "asset_slug": "shore_crab_trap",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Crab Trap, small wooden crab trap with rope handle and hatch detail, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 109,
+    "asset_id": "S12",
+    "asset_name": "Shore Pier Post",
+    "asset_slug": "shore_pier_post",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Pier Post, weathered pier post segment wrapped with rope, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 110,
+    "asset_id": "S12",
+    "asset_name": "Shore Pier Post",
+    "asset_slug": "shore_pier_post",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Pier Post, weathered pier post segment wrapped with rope, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 111,
+    "asset_id": "S12",
+    "asset_name": "Shore Pier Post",
+    "asset_slug": "shore_pier_post",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Pier Post, weathered pier post segment wrapped with rope, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 112,
+    "asset_id": "S12",
+    "asset_name": "Shore Pier Post",
+    "asset_slug": "shore_pier_post",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Shore Pier Post, weathered pier post segment wrapped with rope, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 113,
+    "asset_id": "L01",
+    "asset_name": "Lair Spyglass",
+    "asset_slug": "lair_spyglass",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Spyglass, brass pirate spyglass with telescoping sections and worn polish, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 114,
+    "asset_id": "L01",
+    "asset_name": "Lair Spyglass",
+    "asset_slug": "lair_spyglass",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Spyglass, brass pirate spyglass with telescoping sections and worn polish, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 115,
+    "asset_id": "L01",
+    "asset_name": "Lair Spyglass",
+    "asset_slug": "lair_spyglass",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Spyglass, brass pirate spyglass with telescoping sections and worn polish, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 116,
+    "asset_id": "L01",
+    "asset_name": "Lair Spyglass",
+    "asset_slug": "lair_spyglass",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Spyglass, brass pirate spyglass with telescoping sections and worn polish, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 117,
+    "asset_id": "L02",
+    "asset_name": "Lair Compass",
+    "asset_slug": "lair_compass",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Compass, brass compass with hinged lid and engraved face, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 118,
+    "asset_id": "L02",
+    "asset_name": "Lair Compass",
+    "asset_slug": "lair_compass",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Compass, brass compass with hinged lid and engraved face, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 119,
+    "asset_id": "L02",
+    "asset_name": "Lair Compass",
+    "asset_slug": "lair_compass",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Compass, brass compass with hinged lid and engraved face, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 120,
+    "asset_id": "L02",
+    "asset_name": "Lair Compass",
+    "asset_slug": "lair_compass",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Compass, brass compass with hinged lid and engraved face, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 121,
+    "asset_id": "L03",
+    "asset_name": "Lair Coin Pouch",
+    "asset_slug": "lair_coin_pouch",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Coin Pouch, leather coin pouch tied with cord, slightly bulged, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 122,
+    "asset_id": "L03",
+    "asset_name": "Lair Coin Pouch",
+    "asset_slug": "lair_coin_pouch",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Coin Pouch, leather coin pouch tied with cord, slightly bulged, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 123,
+    "asset_id": "L03",
+    "asset_name": "Lair Coin Pouch",
+    "asset_slug": "lair_coin_pouch",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Coin Pouch, leather coin pouch tied with cord, slightly bulged, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 124,
+    "asset_id": "L03",
+    "asset_name": "Lair Coin Pouch",
+    "asset_slug": "lair_coin_pouch",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Coin Pouch, leather coin pouch tied with cord, slightly bulged, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 125,
+    "asset_id": "L04",
+    "asset_name": "Lair Coin Stack",
+    "asset_slug": "lair_coin_stack",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Coin Stack, small neat stack of pirate coins on folded cloth, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 126,
+    "asset_id": "L04",
+    "asset_name": "Lair Coin Stack",
+    "asset_slug": "lair_coin_stack",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Coin Stack, small neat stack of pirate coins on folded cloth, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 127,
+    "asset_id": "L04",
+    "asset_name": "Lair Coin Stack",
+    "asset_slug": "lair_coin_stack",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Coin Stack, small neat stack of pirate coins on folded cloth, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 128,
+    "asset_id": "L04",
+    "asset_name": "Lair Coin Stack",
+    "asset_slug": "lair_coin_stack",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Coin Stack, small neat stack of pirate coins on folded cloth, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 129,
+    "asset_id": "L05",
+    "asset_name": "Lair Map Roll",
+    "asset_slug": "lair_map_roll",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Map Roll, rolled treasure map scroll tied with twine and wax seal, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 130,
+    "asset_id": "L05",
+    "asset_name": "Lair Map Roll",
+    "asset_slug": "lair_map_roll",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Map Roll, rolled treasure map scroll tied with twine and wax seal, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 131,
+    "asset_id": "L05",
+    "asset_name": "Lair Map Roll",
+    "asset_slug": "lair_map_roll",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Map Roll, rolled treasure map scroll tied with twine and wax seal, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 132,
+    "asset_id": "L05",
+    "asset_name": "Lair Map Roll",
+    "asset_slug": "lair_map_roll",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Map Roll, rolled treasure map scroll tied with twine and wax seal, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 133,
+    "asset_id": "L06",
+    "asset_name": "Lair Logbook",
+    "asset_slug": "lair_logbook",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Logbook, worn pirate logbook with strap and corner protectors, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 134,
+    "asset_id": "L06",
+    "asset_name": "Lair Logbook",
+    "asset_slug": "lair_logbook",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Logbook, worn pirate logbook with strap and corner protectors, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 135,
+    "asset_id": "L06",
+    "asset_name": "Lair Logbook",
+    "asset_slug": "lair_logbook",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Logbook, worn pirate logbook with strap and corner protectors, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 136,
+    "asset_id": "L06",
+    "asset_name": "Lair Logbook",
+    "asset_slug": "lair_logbook",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Logbook, worn pirate logbook with strap and corner protectors, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 137,
+    "asset_id": "L07",
+    "asset_name": "Lair Candle Holder",
+    "asset_slug": "lair_candle_holder",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Candle Holder, metal candle holder with short candle and wax drips, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 138,
+    "asset_id": "L07",
+    "asset_name": "Lair Candle Holder",
+    "asset_slug": "lair_candle_holder",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Candle Holder, metal candle holder with short candle and wax drips, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 139,
+    "asset_id": "L07",
+    "asset_name": "Lair Candle Holder",
+    "asset_slug": "lair_candle_holder",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Candle Holder, metal candle holder with short candle and wax drips, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 140,
+    "asset_id": "L07",
+    "asset_name": "Lair Candle Holder",
+    "asset_slug": "lair_candle_holder",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Candle Holder, metal candle holder with short candle and wax drips, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 141,
+    "asset_id": "L08",
+    "asset_name": "Lair Shackles",
+    "asset_slug": "lair_shackles",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Shackles, metal shackles connected by short chain segment, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 142,
+    "asset_id": "L08",
+    "asset_name": "Lair Shackles",
+    "asset_slug": "lair_shackles",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Shackles, metal shackles connected by short chain segment, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 143,
+    "asset_id": "L08",
+    "asset_name": "Lair Shackles",
+    "asset_slug": "lair_shackles",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Shackles, metal shackles connected by short chain segment, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 144,
+    "asset_id": "L08",
+    "asset_name": "Lair Shackles",
+    "asset_slug": "lair_shackles",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Shackles, metal shackles connected by short chain segment, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 145,
+    "asset_id": "L09",
+    "asset_name": "Lair Powder Keg",
+    "asset_slug": "lair_powder_keg",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Powder Keg, compact black powder keg with iron hoops and warning mark, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 146,
+    "asset_id": "L09",
+    "asset_name": "Lair Powder Keg",
+    "asset_slug": "lair_powder_keg",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Powder Keg, compact black powder keg with iron hoops and warning mark, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 147,
+    "asset_id": "L09",
+    "asset_name": "Lair Powder Keg",
+    "asset_slug": "lair_powder_keg",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Powder Keg, compact black powder keg with iron hoops and warning mark, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 148,
+    "asset_id": "L09",
+    "asset_name": "Lair Powder Keg",
+    "asset_slug": "lair_powder_keg",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Powder Keg, compact black powder keg with iron hoops and warning mark, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 149,
+    "asset_id": "L10",
+    "asset_name": "Lair Cannonball Stack",
+    "asset_slug": "lair_cannonball_stack",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Cannonball Stack, small pyramid stack of cannonballs on cloth base, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 150,
+    "asset_id": "L10",
+    "asset_name": "Lair Cannonball Stack",
+    "asset_slug": "lair_cannonball_stack",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Cannonball Stack, small pyramid stack of cannonballs on cloth base, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 151,
+    "asset_id": "L10",
+    "asset_name": "Lair Cannonball Stack",
+    "asset_slug": "lair_cannonball_stack",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Cannonball Stack, small pyramid stack of cannonballs on cloth base, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 152,
+    "asset_id": "L10",
+    "asset_name": "Lair Cannonball Stack",
+    "asset_slug": "lair_cannonball_stack",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Cannonball Stack, small pyramid stack of cannonballs on cloth base, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 153,
+    "asset_id": "L11",
+    "asset_name": "Lair Cutlass",
+    "asset_slug": "lair_cutlass",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Cutlass, pirate cutlass with guard and wrapped hilt in sheath, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 154,
+    "asset_id": "L11",
+    "asset_name": "Lair Cutlass",
+    "asset_slug": "lair_cutlass",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Cutlass, pirate cutlass with guard and wrapped hilt in sheath, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 155,
+    "asset_id": "L11",
+    "asset_name": "Lair Cutlass",
+    "asset_slug": "lair_cutlass",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Cutlass, pirate cutlass with guard and wrapped hilt in sheath, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 156,
+    "asset_id": "L11",
+    "asset_name": "Lair Cutlass",
+    "asset_slug": "lair_cutlass",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Cutlass, pirate cutlass with guard and wrapped hilt in sheath, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 157,
+    "asset_id": "L12",
+    "asset_name": "Lair Flintlock Pistol",
+    "asset_slug": "lair_flintlock_pistol",
+    "variation": 1,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Flintlock Pistol, classic flintlock pistol with wood grip and metal barrel, canonical production variant, balanced proportions, easiest to model, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 158,
+    "asset_id": "L12",
+    "asset_name": "Lair Flintlock Pistol",
+    "asset_slug": "lair_flintlock_pistol",
+    "variation": 2,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Flintlock Pistol, classic flintlock pistol with wood grip and metal barrel, slightly chunkier silhouette, broader forms, still readable and simple, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 159,
+    "asset_id": "L12",
+    "asset_name": "Lair Flintlock Pistol",
+    "asset_slug": "lair_flintlock_pistol",
+    "variation": 3,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Flintlock Pistol, classic flintlock pistol with wood grip and metal barrel, slightly slimmer silhouette, tighter proportions, clear material breakup, single object, no extra objects, neutral reference framing"
+  },
+  {
+    "index": 160,
+    "asset_id": "L12",
+    "asset_name": "Lair Flintlock Pistol",
+    "asset_slug": "lair_flintlock_pistol",
+    "variation": 4,
+    "view": "three_quarter",
+    "view_lock": "3/4 three-quarter view, camera above horizon, object rotated around 35 degrees, clear volume and readable silhouette",
+    "prompt": "Lair Flintlock Pistol, classic flintlock pistol with wood grip and metal barrel, game-ready optimized variant, very clean shape language, reusable prop profile, single object, no extra objects, neutral reference framing"
+  }
+]

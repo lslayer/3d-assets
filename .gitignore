@@ -41,3 +41,7 @@ boat_iterations/
 
 # Workspace temp exports
 tmp/
+
+# Generated archive bundles (keep unpacked folders, not tarballs)
+references/*.tar.gz
+references/*.tgz
