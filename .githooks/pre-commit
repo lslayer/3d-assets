@@ -1,0 +1,11 @@
+#!/bin/sh
+
+blocked_files=$(git diff --cached --name-only --diff-filter=ACMR | grep -E '(^|/)([^/]+\.blend[0-9]+|[^/]+\.blend@[^/]*|[^/]+\.btemp|[^/]+\.crash\.txt)$')
+
+if [ -n "$blocked_files" ]; then
+  echo "Blocked generated Blender backup/temp files from being committed:"
+  echo "$blocked_files"
+  echo
+  echo "Remove them from the index or rely on .gitignore instead."
+  exit 1
+fi
